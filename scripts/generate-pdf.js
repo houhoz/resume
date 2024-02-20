@@ -29,7 +29,7 @@ const main = async () => {
     format: "A4",
     margin: {
       top: "20px",
-      bottom: "20px",
+      bottom: "80px",
     },
     printBackground: true,
     scale: 0.8,
