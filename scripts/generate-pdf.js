@@ -29,9 +29,8 @@ const main = async () => {
     margin: {
       top: "50px",
       right: "10px",
-      bottom: "10px",
-      left: "10px",
       bottom: "80px",
+      left: "10px",
     },
     printBackground: true,
     scale: 0.8,
