@@ -26,7 +26,13 @@ const main = async () => {
 
   await page.pdf({
     path: "public/resume.pdf",
-    margin: { top: "50px", bottom: "80px" },
+    margin: {
+      top: "50px",
+      right: "10px",
+      bottom: "10px",
+      left: "10px",
+      bottom: "80px",
+    },
     printBackground: true,
     scale: 0.8,
   });
