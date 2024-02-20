@@ -1,58 +1,83 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: 候亚照 - Resume
+description: Resume about 候亚照.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# 个人信息
 
-**Programmer**
+| **姓名：候亚照**      | **年龄：1992/03/15**    |
+| --------------------| ------------------------ |
+| **学历：全日制本科**   | **手机：17767206674**   |
+| **邮箱：houyazhao@gmail.com**    | **blog：https://leohoo-blog.netlify.app**   |
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+----
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+# 技能清单
 
-## 工作经历
+- 深入理解 WEB 制作技术，精通 HTML 和 CSS，并对 W3C 标准和 HTML 语义化有深刻理解。
+- 精通 React、Vue 等主流前端框架，能够架构和开发单页应用和复杂项目，具备高度的组件化和架构设计能力。
+- 在微信公众号、微信小程序领域具有丰富经验，主导开发多个基于 Taro 的项目，能够解决复杂场景下的开发问题。
+- 熟悉移动端开发技术，能够利用 React Native 开发跨平台移动应用，提供更好的用户体验和性能。
+- 全栈开发能力突出，精通 Node.js，能够构建高性能、可扩展的后端服务，并且熟悉数据库设计和 API 接口规范。
+- 熟练运用 Webpack、Vite 等前端工程化工具，能够进行代码自动化构建、优化和性能调优，提高项目的开发效率和性能。
+- 深入研究前端性能优化技巧，包括代码压缩、按需加载、资源懒加载、图片优化等，注重页面加载速度和性能优化。
+- 坚持遵循 Eslint 代码规范，追求高效、可读性和可维护性的代码编写习惯，注重代码质量和项目可维护性。
 
-### [Google](https://www.google.com/)
+----
 
-#### Senior Software Engineer | Oct 2022 - Current
+# 工作经历
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+## 杭州又拍云科技有限公司（2020年6月~2023年4月）
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### 上直播平台项目
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### 管理后台重构
 
-### [Pied Piper](http://piedpiper.com/)
+- 升级前端开发技术：React16.8升级React18，将应用升级到了最新的Webpack5，实现了更好的性能和更高的开发效率。
+- 进行了组件封装：为了更好的复用和统一组件UI，在应用中我对Antd的组件进行了二次封装，使其更贴近应用的实际需求，并提高了组件代码的封装程度，减少了代码冗余。
+- 优化了代码结构：通过分层设计，提高代码的可维护性，并减少了代码的重复性。使得代码的复杂度得到有效的控制，提高了代码的可读性。
+- 领导开发团队：通过与团队协作、任务分配和代码审查等方式，确保项目的规范性和高质量的代码实现。同时，也给团队成员提供了相关技术支持，协助他们解决开发过程中的问题。
+#### 新版播放页
+- 完成授权观看预告页的开发：在该功能开发过程中，我使用了Umi框架和Ant Mobile组件库，实现了授权功能，并且在设计上考虑到用户的易用性，UI设计更加简洁美观。
+- 完成PC与移动端的自适应展示：在该功能开发过程中，我遵循了响应式设计的原则，通过使用CSS 的媒体查询和栅格系统等技术，实现了在不同显示设备上的自适应布局，在保证视觉美观的同时，提高了用户体验。
 
-#### CEO/President | Dec 2013 - Dec 2014
+### 同心荟项目
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### 同心荟大屏项目和管理后台
+- 主导项目的开发：我负责项目的技术选型、架构设计，同时担任项目开发的主导者，确保项目进度和各个模块之间的顺畅协调。
+- 地图展示功能的开发：该项目是基于 Echarts 技术实现的，我调研了相关的地图功能，根据产品的需求，利用Echarts实现了首页杭州地图的展示功能，并且保证了呈现效果的优化。
+- 确保项目最终质量：在项目过程中，我利用合理的技术架构、高效的编码规范和团队协作，最大限度降低了代码错误率和bug数，最终保证了项目的质量和稳定性。
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+#### 数智同心荟前台
+- 使用Taro框架，实现了多端兼容性，包括微信小程序和 H5 页面等。基于miniprogram-ci实现一行命令实现微信小程序的预览，打包，发布。
+- 完成“浙里办”App和微信小程序的上架：在该项目中，我负责了“浙里办”App和微信小程序的开发和上架。我认真研究了微信小程序和 App 上架的技术规范和注意事项，并严格按照要求完成了上架和发布等相关工作。
+- 配合浙里办做好单点登录、埋点、适老化等上架前的准备工作：在该项目中，我积极配合浙里办的需求，与后端开发人员合作，确保开发工作的顺利进行。同时，我负责做好单点登录、埋点、适老化等上架前的准备工作，从而为后期使用和推广打下坚实的基础。
 
-## Projects
+## 浙江心怡供应链管理有限公司（2018年8月~2020年6月）
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+### CRM客户管理系统
 
-#### Video Compression for 3D Media
+参与了CRM客户管理系统的前端开发，使用Vue全家桶和IViewUi组件库。主要负责登录权限和用户管理模块。项目要求所有的菜单和操作按钮都能根据用户权限动态显示或隐藏。我的解决方案是：用户登录成功后，将权限信息存储在LocalStorage中，在路由配置中增加Access字段，根据Access字段控制菜单的显示或隐藏；同时利用Vue的自定义指令来控制操作按钮的显示或隐藏。
 
-#### Founder | Oct 2014
+### TMS运输管理系统
 
-Innovative middle-out compression algorithm that changes the way we store data.
+参与了TMS运输管理系统的前端开发，使用Vue框架和IView UI组件库，基于Node服务。项目的难点在于地图的开发，需要实时显示车辆的运输线路。为了解决这个问题，我认真调研了高德地图Api，并封装了地图组件，使得地图功能可以快速、简洁、高效地实现。
 
-## Languages
 
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
+## 杭州魔方科技有限公司（2017年8月~2018年8月）
 
-## Education
+负责公司官网和小程序的开发。主要使用的技术栈包括Vue和Jquery。
 
-### University of Oklahoma
+## 北京神州泰岳软件股份有限公司（2016年9月~2017年8月）
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+负责与中国移动合作的项目，主要负责前端静态页面的开发，以及嵌套JSP页面的使用。
+
+----
+
+# 自我评价
+
+- 具备扎实的技术能力和丰富的实际项目经验
+- 具备解决问题的能力和灵活的思维方式，能够快速分析和解决各种技术难题
+- 对持续学习和自我发展充满激情
