@@ -8,6 +8,14 @@ const main = async () => {
 
   await page.emulateMedia({ media: "screen" });
 
+  await page.addStyleTag({
+    content: `
+      body {
+        font-family: 'Arial Unicode MS', sans-serif;
+      }
+    `,
+  });
+
   await page.pdf({
     path: "public/resume.pdf",
     margin: { top: "50px", bottom: "80px" },
