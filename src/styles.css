@@ -18,6 +18,6 @@ article.minimalist {
     prose-td:text-slate-500
     dark:bg-slate-800
     prose-h4:dark:text-slate-400  
-    sm:px-12 sm:py-14
-    lg:max-w-6xl;
+    sm:px-12 sm:py-12
+    lg:max-w-4xl;
 }
