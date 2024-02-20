@@ -28,6 +28,7 @@ const main = async () => {
     path: "public/resume.pdf",
     margin: { top: "50px", bottom: "80px" },
     printBackground: true,
+    scale: 0.8,
   });
 
   return browser.close();
