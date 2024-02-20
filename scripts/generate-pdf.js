@@ -27,10 +27,10 @@ const main = async () => {
   await page.pdf({
     path: "public/resume.pdf",
     format: "A4",
-    // margin: {
-    //   top: "50px",
-    //   bottom: "80px",
-    // },
+    margin: {
+      top: "20px",
+      bottom: "20px",
+    },
     printBackground: true,
     scale: 0.8,
   });
