@@ -33,6 +33,7 @@ const main = async () => {
     },
     printBackground: true,
     preferCSSPageSize: true,
+    // scale: 0.8,
   });
 
   return browser.close();
