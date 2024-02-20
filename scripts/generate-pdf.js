@@ -28,12 +28,11 @@ const main = async () => {
     path: "public/resume.pdf",
     format: "A4",
     margin: {
-      top: "20px",
-      left: "-80px",
+      top: "50px",
       bottom: "80px",
     },
     printBackground: true,
-    scale: 0.8,
+    preferCSSPageSize: true,
   });
 
   return browser.close();
