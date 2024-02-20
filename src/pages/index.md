@@ -29,6 +29,26 @@ pdfLink: resume.pdf
 
 # 工作经历
 
+## 北京青行科技有限公司（2023年6月~至今）
+
+### 青行客运维 App  
+项目描述：为商家提供地图、车辆信息、换电、维修、质检等基础运维能力。  
+技术栈：ReactNative + Redux + NativeBase  
+个人职责：
+- 负责基础能力的搭建，请求加密验签，请求错误处理、本地缓存全局 store等。
+- 主要负责登录、质检、工单模块的开发。
+- 封装 Map、Scan、Modal基础组件和其他业务组件，提高开发通用性，效率。
+- 封装通用自定义 Hooks，比如 useBluetoothSDK、usePermissionCheck、usePosition，提高代码复用型。
+
+### 微信第三方服务商平台
+项目描述：为商家提供地图、车辆信息、换电、维修、质检等基础运维能力。  
+技术栈：后端：Koa2 + Mongo + Typeorm  前端：Vue 3 + TypeScript + Vite  
+个人职责：
+- 负责基础能力的搭建，请求加密验签，请求错误处理、本地缓存全局 store等。
+- 主要负责登录、质检、工单模块的开发。
+- 封装 Map、Scan、Modal基础组件和其他业务组件，提高开发通用性，效率。
+- 封装通用自定义 Hooks，比如 useBluetoothSDK、usePermissionCheck、usePosition，提高代码复用型。
+
 ## 杭州又拍云科技有限公司（2020年6月~2023年4月）
 
 ### 上直播平台项目
