@@ -29,7 +29,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.4",
+    "@astrojs/check": "^0.5.10",
     "@fontsource-variable/noto-sans-sc": "^5.0.4",
     "astro": "^4.4.0"
   }
