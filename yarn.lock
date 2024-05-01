@@ -522,16 +522,6 @@
   resolved "https://registry.yarnpkg.com/@fontsource-variable/noto-sans-sc/-/noto-sans-sc-5.0.4.tgz#8e4f385e6e437bd305f45ec239a915295f91bf12"
   integrity sha512-80JYw30HU85g4m6x5SiKKmc2gpMjo/h63zCO8Io7ZORdK9ty0b4P85ucB2EeQ6ti2zFs0aFqJE4guKzOKGEjMQ==
 
-"@fontsource/poppins@^5.0.8":
-  version "5.0.8"
-  resolved "https://registry.yarnpkg.com/@fontsource/poppins/-/poppins-5.0.8.tgz#a1c5540aedb3719a36eba5c7c5dfaa3aed3c9f80"
-  integrity sha512-P8owfYWluoUY5Nyzk4gT/L6LmLmseP6ezFWhj6VBUa5pRIdnCvNJpoQ6i/vhekjtJOfqX6nKlB+LCttoUl2GQQ==
-
-"@fontsource/zhi-mang-xing@^5.0.11":
-  version "5.0.11"
-  resolved "https://registry.yarnpkg.com/@fontsource/zhi-mang-xing/-/zhi-mang-xing-5.0.11.tgz#7ade174fc4a9901379e1210fd0aad008acf5f9ea"
-  integrity sha512-7cFCtH+ZenUVR8QT2nr14txU0FR3dNcaiP74TQ+iWguyj9Yy0SWnKDXbe5UrKJ5NIaE5GdBnGHIycaBG+wkXhg==
-
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
@@ -4022,10 +4012,10 @@ prettier-plugin-astro@^0.13.0:
     prettier "^3.0.0"
     sass-formatter "^0.7.6"
 
-prettier-plugin-tailwindcss@^0.5.11:
-  version "0.5.11"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.5.11.tgz#1aa9308c3285b3cb7942aaeaec8d0e0775ac54d0"
-  integrity sha512-AvI/DNyMctyyxGOjyePgi/gqj5hJYClZ1avtQvLlqMT3uDZkRbi4HhGUpok3DRzv9z7Lti85Kdj3s3/1CeNI0w==
+prettier-plugin-tailwindcss@^0.5.14:
+  version "0.5.14"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.5.14.tgz#4482eed357d5e22eac259541c70aca5a4c7b9d5c"
+  integrity sha512-Puaz+wPUAhFp8Lo9HuciYKM2Y2XExESjeT+9NQoVFXZsPPnc9VYss2SpxdQ6vbatmt8/4+SN0oe0I1cPDABg9Q==
 
 prettier@^3.0.0:
   version "3.1.1"
