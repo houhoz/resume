@@ -517,20 +517,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.19.12.tgz#c57c8afbb4054a3ab8317591a0b7320360b444ae"
   integrity sha512-T1QyPSDCyMXaO3pzBkF96E8xMkiRYbUEZADd29SyPGabqxMViNoii+NcK7eWJAEoU6RZyEm5lVSIjTmcdoB9HA==
 
-"@fontsource-variable/noto-sans-sc@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@fontsource-variable/noto-sans-sc/-/noto-sans-sc-5.0.4.tgz#8e4f385e6e437bd305f45ec239a915295f91bf12"
-  integrity sha512-80JYw30HU85g4m6x5SiKKmc2gpMjo/h63zCO8Io7ZORdK9ty0b4P85ucB2EeQ6ti2zFs0aFqJE4guKzOKGEjMQ==
-
-"@fontsource/poppins@^5.0.8":
-  version "5.0.8"
-  resolved "https://registry.yarnpkg.com/@fontsource/poppins/-/poppins-5.0.8.tgz#a1c5540aedb3719a36eba5c7c5dfaa3aed3c9f80"
-  integrity sha512-P8owfYWluoUY5Nyzk4gT/L6LmLmseP6ezFWhj6VBUa5pRIdnCvNJpoQ6i/vhekjtJOfqX6nKlB+LCttoUl2GQQ==
-
-"@fontsource/zhi-mang-xing@^5.0.11":
-  version "5.0.11"
-  resolved "https://registry.yarnpkg.com/@fontsource/zhi-mang-xing/-/zhi-mang-xing-5.0.11.tgz#7ade174fc4a9901379e1210fd0aad008acf5f9ea"
-  integrity sha512-7cFCtH+ZenUVR8QT2nr14txU0FR3dNcaiP74TQ+iWguyj9Yy0SWnKDXbe5UrKJ5NIaE5GdBnGHIycaBG+wkXhg==
+"@fontsource-variable/noto-sans-sc@^5.0.6":
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/noto-sans-sc/-/noto-sans-sc-5.0.6.tgz#5b20dfeb341fb92b8fbdde47674691cee876517e"
+  integrity sha512-aw43cFuLAo+at9lfzbejCSkusivMQ1uUPlWeqde+eAkMvhtMkO2LjSp0QJCyVDf22NtLNbOX0WYNPtocHXFuiA==
 
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
