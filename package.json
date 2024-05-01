@@ -31,6 +31,6 @@
   "dependencies": {
     "@astrojs/check": "^0.5.4",
     "@fontsource-variable/noto-sans-sc": "^5.0.4",
-    "astro": "^4.4.0"
+    "astro": "^4.7.0"
   }
 }
