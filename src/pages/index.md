@@ -10,7 +10,7 @@ pdfLink: resume.pdf
 | **姓名：候亚照**      | **年龄：1992/03/15**    |
 | --------------------| ------------------------ |
 | **学历：全日制本科**   | **手机：17767206674**   |
-| **邮箱：houyazhao@gmail.com**    | **blog：https://leohoo-blog.netlify.app**   |
+| **邮箱：houyazhao@gmail.com**    | **blog：https://blog.leoho.dev**   |
 
 ----
 
